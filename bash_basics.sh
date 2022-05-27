@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 #printing the statement
 echo Hello world ! 
